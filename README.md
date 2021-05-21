@@ -10,7 +10,7 @@ Numbersquare Returns itself as a string depending on what is happening on the ga
 Still working on it, read checklist below for more faetures I want to add 
 
 The Checklist:
-To run use the driver, 
-Level select is going to be updated so that it can run in minesweeper.java,
-Going to be making the uncover() method of grid recursive,
-Making it impossible to hit a mine on the first choice,
+To run use the driver,  
+Level select is going to be updated so that it can run in minesweeper.java, 
+Going to be making the uncover() method of grid recursive,  
+Making it impossible to hit a mine on the first choice, 
