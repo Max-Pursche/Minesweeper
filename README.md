@@ -1,7 +1,7 @@
 # Minesweeper
-Max Pursche/n
-Object Oriented Minesweeper Project:/n
-grid.java is where a lot of the game functionality occurs, uncovering, flagging, and placing mineSquare objects randomly all happen in this
+Max Pursche:  
+Object Oriented Minesweeper Project:  
+grid.java is where a lot of the game functionality occurs including, uncovering, flagging and placing mineSquare objects randomly,
 while minesweeper.java is just making the game play and keeping track of wether the player loses or not,
 Square.java is the abstract for MineSquare and NumberSquare,
 MineSquare has two methods, the abstract ismine() that returns true, and another that sets the String element equal to "*" (the notaion I used for printing a bomb)
