@@ -1,6 +1,6 @@
 # Minesweeper
-Max Pursche
-Object Oriented Minesweeper Project:
+Max Pursche/n
+Object Oriented Minesweeper Project:/n
 grid.java is where a lot of the game functionality occurs, uncovering, flagging, and placing mineSquare objects randomly all happen in this
 while minesweeper.java is just making the game play and keeping track of wether the player loses or not,
 Square.java is the abstract for MineSquare and NumberSquare,
